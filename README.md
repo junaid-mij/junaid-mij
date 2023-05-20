@@ -1,3 +1,4 @@
+![logo](https://github.com/junaid-mij/junaid-mij/blob/main/marajul_islam_banner.png)
 <h1 align="center">Hi 👋, I'm Marajul Islam Junaid</h1>
 <h3 align="center">Crafting Web Magic | Web Application Developer</h3>
 
